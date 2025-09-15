@@ -1,0 +1,6 @@
+{
+    "apiProvider": "gemini", //gemini ou openai
+    "apiKey": "SUA_CHAVE_DE_API_AQUI",
+    "scanDirectory": ".",
+    "reportFile": "report.txt"
+}
